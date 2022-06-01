@@ -1,2 +1,2 @@
 # Calculadora Cientifica.
-Criado com TKINTER - Interface gr
+Criado com TKINTER - Interface gráfica.
