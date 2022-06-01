@@ -1,2 +1,2 @@
-# calc_cientifica
-Calculadora Cientifica com TKINTER.
+# Calculadora Cientifica.
+Criado com TKINTER - Interface gr
