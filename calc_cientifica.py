@@ -1,8 +1,3 @@
-"""
-Nome: Iara Catarina Silva e Lima
-Matricula: 202110051628
-"""
-
 # Importando o Tkinter e o math.
 import tkinter as tk
 import math
